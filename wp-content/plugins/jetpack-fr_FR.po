@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Jetpack &#8211; WP Security, Backup, Speed, &amp; Growth - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-04 18:07:48+0000\n"
+"PO-Revision-Date: 2025-06-12 10:04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,9 +30,25 @@ msgctxt "menu label for form responses"
 msgid "Form Responses"
 msgstr "Réponses du formulaire"
 
+#: jetpack_vendor/automattic/jetpack-forms/src/contact-form/class-contact-form-plugin.php:1980
+msgid "You do not have permission to create pages"
+msgstr "Vous n’avez pas le droit de créer des pages"
+
+#: jetpack_vendor/automattic/jetpack-forms/src/contact-form/class-contact-form-plugin.php:1973
+msgid "Invalid nonce"
+msgstr "Nonce non valide"
+
 #: jetpack_vendor/automattic/jetpack-forms/src/contact-form/class-contact-form-endpoint.php:729
 msgid "Integration not found."
 msgstr "Intégration introuvable."
+
+#: extensions/blocks/subscriptions/subscriptions.php:1328
+msgid "It's a subscribers only post. Subscribe to get access to the rest of this post and other subscriber-only content."
+msgstr "Il s’agit d’un article réservé aux abonnés. Abonnez-vous pour avoir accès à la suite de cette publication et au contenu réservé aux abonnés."
+
+#: extensions/blocks/subscriptions/subscriptions.php:1325
+msgid "Subscribe to keep reading"
+msgstr "S’abonner pour poursuivre la lecture"
 
 #: _inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-block-editor-assets.php:382
 msgid "Style link tags for the block editor."

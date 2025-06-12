@@ -57,7 +57,6 @@ define( 'AUTH_SALT',        '=ibS{}sU)YaMBwv`p0|]y|Y0<O7:x?{[=,l,<uX^%;w,I;TfWa]
 define( 'SECURE_AUTH_SALT', 's@n&tMA5Pr)x90c>FbWG?;3jX|]s lw[In:*yO,28d=SjD0K LXu:GS!lR!zYY2-' );
 define( 'LOGGED_IN_SALT',   '{:Ul!,HQw1H|cz;Y5OxfxULoM#!F@eU01qzz_Pe]r59GI?9F>xaEq_pNUN<?TOS[' );
 define( 'NONCE_SALT',       'z]/|/{RjR^E5jmbPG_otlTIx<!}e@.gIEJnk3[vot-3>3Uyr{aCeobjk<~Nu/T.?' );
-
 /**#@-*/
 
 /**
